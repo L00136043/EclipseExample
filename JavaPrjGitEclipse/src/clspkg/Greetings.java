@@ -16,6 +16,7 @@ public class Greetings {
 		// TODO Auto-generated method stub
 		System.out.println("Greetings l00136043");
 		System.out.println("Greetings Everbody");
+		System.out.println("Greetings and good wishes to all");
 	}
 
 }
